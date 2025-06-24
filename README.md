@@ -1,2 +1,2 @@
-# senhas-digitais-
+# senhas-digitais
 Desenvolvimento html,css e javaScript
